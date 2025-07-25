@@ -12,7 +12,7 @@ body {
 
 .hero {
   position: relative;
-  
+  height: 500px;
   overflow: hidden;
 }
 
