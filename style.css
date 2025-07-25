@@ -23,7 +23,7 @@ body {
 }
 .hero-image {
   position: relative;
-  height: ;
+  height: 0;
   object-fit: cover;
   width: 100%;
 }
